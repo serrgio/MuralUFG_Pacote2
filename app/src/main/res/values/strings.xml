@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MuralUFG_Pacote2</string>
+
+    <string name="title_section1">Eventos</string>
+    <string name="title_section2">Preferências</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Ação</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_eventos2">EventosActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
